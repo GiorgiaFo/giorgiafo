@@ -1020,8 +1020,8 @@ section {
 }
 
 .events-img {
-  width: 450px; /* or any other width value you want */
-  height: 700px; /* or any other height value you want */
+  width: 250px; /* or any other width value you want */
+  height: 500px; /* or any other height value you want */
   object-fit: cover; /* to ensure that the image fills the entire container */
 }
 
